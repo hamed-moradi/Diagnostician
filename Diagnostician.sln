@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{7E978990-511A-4342-98C6-3D64210F6E65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{20C41A8F-F659-48A2-90F8-47C2928901D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{E1ABED43-E8F1-4F83-B235-598B1038EBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E978990-511A-4342-98C6-3D64210F6E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E978990-511A-4342-98C6-3D64210F6E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E978990-511A-4342-98C6-3D64210F6E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E978990-511A-4342-98C6-3D64210F6E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C41A8F-F659-48A2-90F8-47C2928901D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C41A8F-F659-48A2-90F8-47C2928901D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C41A8F-F659-48A2-90F8-47C2928901D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C41A8F-F659-48A2-90F8-47C2928901D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1ABED43-E8F1-4F83-B235-598B1038EBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ABED43-E8F1-4F83-B235-598B1038EBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ABED43-E8F1-4F83-B235-598B1038EBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ABED43-E8F1-4F83-B235-598B1038EBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7777AAF6-F52C-4D10-B61F-A683699AC654}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.varanegar.local:9090/tfs/vn%20projects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Application\\Application.csproj
+		SccProjectName1 = Application
+		SccLocalPath1 = Application
+		SccProjectUniqueName2 = Model\\Model.csproj
+		SccProjectName2 = Model
+		SccLocalPath2 = Model
+		SccProjectUniqueName3 = WebApi\\WebApi.csproj
+		SccProjectName3 = WebApi
+		SccLocalPath3 = WebApi
+	EndGlobalSection
+EndGlobal

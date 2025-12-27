@@ -1,0 +1,12 @@
+.git/
+.vs/
+
+*/bin/
+*/obj/
+*/logs/
+*/Properties/
+
+*.vssscc
+*.vspscc
+*.user
+*.editorconfig
