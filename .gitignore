@@ -6,6 +6,8 @@
 */logs/
 */Properties/
 
+*/appsettings.json
+
 *.vssscc
 *.vspscc
 *.user
